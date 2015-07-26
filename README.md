@@ -53,6 +53,6 @@ taccY1:128- 128 total_acc_y_train/test values of the experiment
 
 taccZ1:128- 128 total_acc_z_train/test values of the experiment
 
-##A common variable names for both train & test data have been created so that they merge by thos specific cols when joined.
+##A common variable names for both train & test data have been created so that they merge by those specific cols when joined.
 
 
